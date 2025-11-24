@@ -20,10 +20,13 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 ## Mode-1 and mode-2 internal waves
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/mode1_internalwave.png" width="250" />
-  <img src="/assets/images/mode2_internalwave.png" width="250" />
 </div>
 
 Working with Ricardo Barros (Loughborough), Paul Milewski (Penn State), and Wooyoung Choi (NJIT), we have been looking at the global bifurcation structure of three-layer mode-1 internal solitary waves. Through critical point analysis of an asymptotic model to the full Euler equations, we are able to separate regions of parameter space where there exist either depression or elevation waves, or both. The story is very rich, the spontaneous emergence of critical points being the complicating factor, resulting in interesting solutions such as pyramidal solitons.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/images/mode2_internalwave.png" width="250" />
+</div>
 
 On mode-2 solitary waves, we were the first to demonstrate, through numerical computations, that so called *embedded solitary waves* exist in a three-layer stratification. These solitary waves are unique in that they exist in a parameter space with co-dimension 1 to that of mode-1 solitary waves. In a sense, they are needles in a haystack, where an additional degree of freedom in the parameter-space is spent finding them along branches of   *generalised solitary waves* (solitary waves with oscillatory tails). Embedded solitary waves have been shown to not exist for a variety of wave problems in the Euler equations: to my knowledge this is the first example of them.
 
@@ -40,6 +43,10 @@ Papers:
 * [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
 ## Cyclostratigraphy
+Following an industrial think tank hosted by the SAMBa CDT at Bath, I have been working with Veronica Raffetto (Bath), Matthias Ehrhardt (Bath), and Kathryn Leeming (British Geological survey) on the field of cyclostratigraphy. The goal is to date rock samples by correlating astronomical signals (which influence the climate on Earth) with geological signals such as chemical traces in the rock. The challenge is that this is a highly nonlinear inverse problem: one must map from the spatial coordinate of the geological signal to the time coordinate of the astronomical signal, and then minimise a suitable loss functional relative to this mapping.
+
+This work is ongoing, but promising advances have been made through signal processing techniques and non-convex optimisation strategies.
+
 
 ## Vorticity waves
 
