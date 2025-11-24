@@ -6,7 +6,7 @@
 
 <p float="left">
   <img "/assets/images/fig1.jpeg" width="100" />
- <img "/assets/images/fig1.jpeg" width="100" />
+  <img "/assets/images/fig1.jpeg" width="100" />
 </p>
 
 Hey there!
