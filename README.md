@@ -14,7 +14,7 @@ As well as getting on with my own research, I enjoy facilitating the research of
 I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bath-aims.github.io/). If you are interested in giving a talk, please do not hesitate to get in touch 
 
 ## Mode-1 internal waves
-{% figure src="/assets/images/mode1_internalwave" %}
+{% figure src="/assets/images/mode1_internalwave.png" %}
 
 Papers:
 * https://arxiv.org/abs/2509.24669
