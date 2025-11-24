@@ -17,12 +17,28 @@ As well as getting on with my own research, I enjoy facilitating the research of
 
 I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bath-aims.github.io/). If you are interested in giving a talk, please do not hesitate to get in touch 
 
-## Mode-1 internal waves
+## Mode-1 and mode-2 internal waves
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/mode1_internalwave.png
+</div>
+
+Working with Ricardo Barros (Loughborough), Paul Milewski (Penn State), and Wooyoung Choi (NJIT), we have been looking at the global bifurcation structure of three-layer mode-1 internal solitary waves. Through critical point analysis of an asymptotic model to the full Euler equations, we are able to separate regions of parameter space where there exist either depression or elevation waves, or both. The story is very rich, the spontaneous emergence of critical points being the complicating factor, resulting in interesting solutions such as pyramidal solitons.
+
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/mode2_internalwave.png
+</div>
+
+On mode-2 solitary waves, we were the first to demonstrate, through numerical computations, that so called *embedded solitary waves* exist in a three-layer stratification. These solitary waves are unique in that they exist in a parameter space with co-dimension 1 to that of mode-1 solitary waves. In a sense, they are needles in a haystack, where an additional degree of freedom in the parameter-space is spent finding them along branches of   *generalised solitary waves* (solitary waves with oscillatory tails). Embedded solitary waves have been shown to not exist for a variety of wave problems in the Euler equations: to my knowledge this is the first example of them.
+
+More recently, we have been exploring these waves in continuosly stratified fluids, motivating and motivated by an experimental campaign (being led by Magda Carr and Niraj Prasad at Newcastle), to explore their generation and stability. 
+
+Finally, I have explored the solution space for mode-1 and mode-2 periodic solutions in a three-layer flow, in work led by Xin Guan (Imperial), along with Paul Milewski and Jean-Marc Vanden-Broeck (UCL).
+
+
+
+
 Papers:
 * [A classification of mode-1 internal solitary waves in a three-layer fluid (2025, in review for JFM)](https://arxiv.org/abs/2509.24669)
-
-## Mode-2 internal waves
-Papers:
 * [Large mode-2 internal solitary waves in three-layer flows (2022, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/large-mode2-internal-solitary-waves-in-threelayer-flows/9EC866BEE0DBAB79CC906785B79CCE8B)
 * [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
