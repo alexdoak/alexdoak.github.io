@@ -4,10 +4,10 @@
 
 ## Biography
 
-<p float="left">
-  <img "/assets/images/fig1.jpeg" width="100" />
-  <img "/assets/images/fig1.jpeg" width="100" />
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/fig1.jpeg" width="100" />
+  <img src="/assets/images/fig1.jpeg" width="100" />
+</div>
 
 Hey there!
 
