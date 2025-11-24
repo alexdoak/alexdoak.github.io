@@ -19,7 +19,7 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 ## Mode-1 and mode-2 internal waves
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/mode1_internalwave.png
+  <img src="/assets/images/mode1_internalwave.png"
 </div>
 
 Working with Ricardo Barros (Loughborough), Paul Milewski (Penn State), and Wooyoung Choi (NJIT), we have been looking at the global bifurcation structure of three-layer mode-1 internal solitary waves. Through critical point analysis of an asymptotic model to the full Euler equations, we are able to separate regions of parameter space where there exist either depression or elevation waves, or both. The story is very rich, the spontaneous emergence of critical points being the complicating factor, resulting in interesting solutions such as pyramidal solitons.
