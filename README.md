@@ -5,8 +5,8 @@
 ## Biography
 
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/fig1.jpeg" width="100" />
-  <img src="/assets/images/fig1.jpeg" width="100" />
+  <img src="/assets/images/fig1.jpeg" width="200" />
+  <img src="/assets/images/fig1.jpeg" width="200" />
 </div>
 
 Hey there!
