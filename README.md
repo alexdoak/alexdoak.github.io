@@ -3,8 +3,6 @@
 
 
 ## Biography
-{% figure src="/assets/images/fig1.jpeg" %}
-
 Hey there!
 
 I am Alex Doak, and I work in the Department of Mathematical Sciences at the University of Bath as a National Fellow in Fluid Dynamics. My research interests include free-surface and interfacial flows, internal waves, and electrohydrodynamics. See below for a list of my current and old projects.
@@ -14,8 +12,6 @@ As well as getting on with my own research, I enjoy facilitating the research of
 I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bath-aims.github.io/). If you are interested in giving a talk, please do not hesitate to get in touch 
 
 ## Mode-1 internal waves
-{% figure src="/assets/images/mode1_internalwave.png" %}
-
 Papers:
 * https://arxiv.org/abs/2509.24669
 
