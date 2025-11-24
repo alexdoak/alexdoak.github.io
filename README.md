@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Biography
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -17,7 +19,10 @@ As well as getting on with my own research, I enjoy facilitating the research of
 
 I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bath-aims.github.io/). If you are interested in giving a talk, please do not hesitate to get in touch 
 
-## Mode-1 and mode-2 internal waves
+
+## Research
+
+### Mode-1 and mode-2 internal waves
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/mode1_internalwave.png" width="250" />
 </div>
@@ -42,13 +47,13 @@ Papers:
 * [Large mode-2 internal solitary waves in three-layer flows (2022, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/large-mode2-internal-solitary-waves-in-threelayer-flows/9EC866BEE0DBAB79CC906785B79CCE8B)
 * [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
-## Cyclostratigraphy
+### Cyclostratigraphy
 Following an industrial think tank hosted by the SAMBa CDT at Bath, I have been working with Veronica Raffetto (Bath), Matthias Ehrhardt (Bath), and Kathryn Leeming (British Geological survey) on the field of cyclostratigraphy. The goal is to date rock samples by correlating astronomical signals (which influence the climate on Earth) with geological signals such as chemical traces in the rock. The challenge is that this is a highly nonlinear inverse problem: one must map from the spatial coordinate of the geological signal to the time coordinate of the astronomical signal, and then minimise a suitable loss functional relative to this mapping.
 
 This work is ongoing, but promising advances have been made through signal processing techniques and non-convex optimisation strategies.
 
 
-## Vorticity waves
+### Vorticity waves
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/vort_1.png" width="400" />
   <img src="/assets/images/vort_2.png" width="400" />
@@ -64,15 +69,17 @@ Papers:
 * [Stokes waves in rotational flows: internal stagnation and overhanging profiles (2025, JFM)]([https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stokes-waves-in-rotational-flows-internal-stagnation-and-overhanging-profiles/AC1C809BEDABC7C1198BE50107FE2F1D)](https://arxiv.org/abs/2506.17002)
 * [Large-amplitude periodic solutions to the steady Euler equations with piecewise constant vorticity (2025, in review for Stud. App. Math.](https://arxiv.org/abs/2506.17002)
 
-## River bathymetry reconstruction
+
+### Internal tide resonances
+
+
+### River bathymetry reconstruction
 asd
 
-## Internal tide resonances
+### Gravity currents
 
-## Gravity currents
+### Interfacial electrohydrodynamical waves
 
-## Interfacial electrohydrodynamical waves
+### Axismmetric potential flows
 
-## Axismmetric potential flows
-
-## Two-dimensional free-surface flows
+### Two-dimensional free-surface flows
