@@ -13,7 +13,7 @@ Hey there!
 
 I am Alex Doak, and I work in the Department of Mathematical Sciences at the University of Bath as a National Fellow in Fluid Dynamics. My research interests include free-surface and interfacial flows, internal waves, and electrohydrodynamics. See below for a list of my current and old projects.
 
-As well as getting on with my own research, I enjoy facilitating the research of the postgraduate students at Bath. A particular highlight are the Integrative Think Tanks, a biannual 
+As well as getting on with my own research, I enjoy facilitating the research of the postgraduate students at Bath. A particular highlight are the Integrative Think Tanks, a biannual event hosted by the SAMBa Centre for Doctoral training (https://samba.ac.uk/), where industrial partners present challenges they are facing. The students are tasked with formulating the problems mathematically, and these are always very interesting events. 
 
 I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bath-aims.github.io/). If you are interested in giving a talk, please do not hesitate to get in touch 
 
@@ -49,6 +49,10 @@ This work is ongoing, but promising advances have been made through signal proce
 
 
 ## Vorticity waves
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/images/vort_1.png" width="250" />
+</div>
+
 
 ## River bathymetry reconstruction
 
