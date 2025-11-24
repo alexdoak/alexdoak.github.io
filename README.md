@@ -13,12 +13,12 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 ## Mode-1 internal waves
 Papers:
-* [A classification of mode-1 internal solitary waves in a three-layer fluid](https://arxiv.org/abs/2509.24669)
+* [A classification of mode-1 internal solitary waves in a three-layer fluid (2025, in review for JFM)](https://arxiv.org/abs/2509.24669)
 
 ## Mode-2 internal waves
 Papers:
-* [Large mode-2 internal solitary waves in three-layer flows](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/large-mode2-internal-solitary-waves-in-threelayer-flows/9EC866BEE0DBAB79CC906785B79CCE8B)
-* [Nonlinear travelling periodic waves for the Euler equations in three-layer flows](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
+* [Large mode-2 internal solitary waves in three-layer flows (2022, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/large-mode2-internal-solitary-waves-in-threelayer-flows/9EC866BEE0DBAB79CC906785B79CCE8B)
+* [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
 ## Cyclostratigraphy
 
