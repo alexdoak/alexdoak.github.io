@@ -72,14 +72,14 @@ Papers:
 
 
 ### Internal tide resonances
-
+Working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), during the NFFDy 2025 summer programme at Leeds we sought out evidence of mode-1 internal tide resonances. 
 
 ### River bathymetry reconstruction
-asd
 
 ### Gravity currents
 
 ### Interfacial electrohydrodynamical waves
+Working with Tao Gao (Essex) and Jean-Marc Vanden-Broeck (UCL), we have explored free-surface waves to a variety of electrohydrody
 
 ### Axismmetric potential flows
 
