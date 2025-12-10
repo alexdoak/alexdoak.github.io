@@ -66,7 +66,8 @@ Working with Jean-Marc Vanden-Broeck (UCL) and Vera Hur (Illinois Urbana-Champai
 
 While co-supervising Jonty Sewell's PhD, alongside Miles Wheeler and Karsten Matthies, we looked at the global bifurcation of waves propogating at a vorticity interface. Near-limiting profiles were recovered, and surprisingly a complete sweep of parameter space revealed no overhanging streamlines!
 Papers:
-* [Stokes waves in rotational flows: internal stagnation and overhanging profiles (2025, JFM)]([https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stokes-waves-in-rotational-flows-internal-stagnation-and-overhanging-profiles/AC1C809BEDABC7C1198BE50107FE2F1D)](https://arxiv.org/abs/2506.17002)
+
+* [Stokes waves in rotational flows: internal stagnation and overhanging profiles (2025, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stokes-waves-in-rotational-flows-internal-stagnation-and-overhanging-profiles/AC1C809BEDABC7C1198BE50107FE2F1D)
 * [Large-amplitude periodic solutions to the steady Euler equations with piecewise constant vorticity (2025, in review for Stud. App. Math.](https://arxiv.org/abs/2506.17002)
 
 
