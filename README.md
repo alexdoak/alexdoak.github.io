@@ -55,7 +55,6 @@ This work is ongoing, but promising advances have been made through signal proce
 
 ### Vorticity waves
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/images/vort_1.png" width="400" />
   <img src="/assets/images/vort_2.png" width="400" />
 </div>
 Working with Jean-Marc Vanden-Broeck (UCL) and Vera Hur (Illinois Urbana-Champaign), we have been exploring a numerical method to compute free-surface waves with an arbitrary distribution of vorticity in the fluid bulk. The numerical scheme utilises a framework developed by [Wahlen & Weber (2023)}{https://academic.oup.com/imrn/article/2023/20/17377/6760808}, in which the flow domain is conformally mapped to a rectangular domain. Due to the non-constant vorticity, one cannot use the tools of complex analysis to solve the field equation exclusively using values on the boundary. Hence, the field equation is solved in the bulk of the fluid. These computations are the first for waves with non-constant vorticity which allow for internal stagnation and overhanging streamlines.
@@ -65,14 +64,17 @@ Working with Jean-Marc Vanden-Broeck (UCL) and Vera Hur (Illinois Urbana-Champai
 </div>
 
 While co-supervising Jonty Sewell's PhD, alongside Miles Wheeler and Karsten Matthies, we looked at the global bifurcation of waves propogating at a vorticity interface. Near-limiting profiles were recovered, and surprisingly a complete sweep of parameter space revealed no overhanging streamlines!
-Papers:
 
+Papers:
 * [Stokes waves in rotational flows: internal stagnation and overhanging profiles (2025, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stokes-waves-in-rotational-flows-internal-stagnation-and-overhanging-profiles/AC1C809BEDABC7C1198BE50107FE2F1D)
 * [Large-amplitude periodic solutions to the steady Euler equations with piecewise constant vorticity (2025, in review for Stud. App. Math.](https://arxiv.org/abs/2506.17002)
 
 
 ### Internal tide resonances
-Working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), during the NFFDy 2025 summer programme at Leeds we sought out evidence of mode-1 internal tide resonances. 
+Working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), during the NFFDy 2025 summer programme at Leeds we sought out evidence of mode-1 internal tide resonances along a internal tide beam generated at the  French Polynesian Islands. We used data from the MIT Global Ocean Circulation Model (MITGCM),in particular the LLC4320 configuration. We developed a data processing pipeline to provide convincing evidence that superharmonics are resonantly generated via a triad resonance. The results 
+
+Papers:
+* [Near‐Resonant Generation of Internal Tide Superharmonics: Comparing Theoretical Predictions With a Global Ocean Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL114226)
 
 ### River bathymetry reconstruction
 
