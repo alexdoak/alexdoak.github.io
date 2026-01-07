@@ -46,6 +46,21 @@ Papers:
 * [Large mode-2 internal solitary waves in three-layer flows (2022, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/large-mode2-internal-solitary-waves-in-threelayer-flows/9EC866BEE0DBAB79CC906785B79CCE8B)
 * [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
+
+### Internal Tides 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/images/internal_tide.png" width="250" />
+</div>
+
+At the 2024 NFFDy summer workshop at Leeds university, working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), we found evidence of baroclinic internal tide resonances in MIT's global ocean ciruclation model LLC4320. Theoretical papers demonstrate that it is possible that, near the equator, near resonance of a mode-1 internal tide with itself can transfer energy to it's superharmonic via a classical triad resonance. This comes from the fact that, when the coriolis parameter is small, the dispersion relation $\omega(k)$ satisfies approximately $\omega(k)+\omega(k)\approx \omega(2k)$. We wanted to validate this theory by finding such energy exchanges in ocean models. Despite the fact that the MITgcm model is hydrostatic, dispersion still occurs due to the inclusion of the Coriolis term in the momentum equation.
+
+We processed this data set to obtain a north-east travelling internal tide beam generated at the French Polynesian Islands. The energy corresponding to the parent mode and its superharmonic were recovered, and we found that the energy transfer is of the same order as expected by the theoretical models, providing validation of the simplified two-dimensional model.
+
+Papers:
+* [Near-Resonant Generation of Internal Tide Superharmonics: Comparing Theoretical Predictions With a Global Ocean Model (Geophysical Research letters)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL114226)
+
+
+
 ### Cyclostratigraphy
 Following an industrial think tank hosted by the SAMBa CDT at Bath, I have been working with Veronica Raffetto (Bath), Matthias Ehrhardt (Bath), and Kathryn Leeming (British Geological survey) on the field of cyclostratigraphy. The goal is to date rock samples by correlating astronomical signals (which influence the climate on Earth) with geological signals such as chemical traces in the rock. The challenge is that this is a highly nonlinear inverse problem: one must map from the spatial coordinate of the geological signal to the time coordinate of the astronomical signal, and then minimise a suitable loss functional relative to this mapping.
 
@@ -78,6 +93,8 @@ Papers:
 ### River bathymetry reconstruction
 
 ### Gravity currents
+
+
 
 ### Interfacial electrohydrodynamical waves
 Working with Tao Gao (Essex) and Jean-Marc Vanden-Broeck (UCL), we have explored free-surface waves to a variety of electrohydrody
