@@ -47,6 +47,7 @@ Papers:
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/internal_tide.jpg" width="600" />
 </div>
+
 At the 2024 NFFDy summer workshop at Leeds university, working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), we found evidence of baroclinic internal tide resonances in MIT's global ocean ciruclation model LLC4320. Theoretical papers demonstrate that it is possible that, near the equator, near resonance of a mode-1 internal tide with itself can transfer energy to its superharmonic via a triad near-resonance. This comes from the fact that, when the coriolis parameter is small, the dispersion relation $\omega(k)$ satisfies approximately $\omega(k)+\omega(k)\approx \omega(2k)$. We wanted to validate this theory by finding such energy exchanges in ocean models. Despite the fact that the MITgcm model is hydrostatic, dispersion still occurs due to the inclusion of the Coriolis term in the momentum equation.
 
 We processed this data set to obtain a north-east travelling internal tide beam generated at the French Polynesian Islands. The energy corresponding to the parent mode and its superharmonic were recovered, and we found that the energy transfer is of the same order as expected by the theoretical models, providing validation of the simplified two-dimensional model.
