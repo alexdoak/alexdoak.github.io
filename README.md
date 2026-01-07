@@ -17,7 +17,13 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 ## Research
 [Mode-1 and mode-2 internal waves](#mode1-mode2)
-
+[Internal Tides](#tides)
+[Cyclostratigraphy](#ccsg)
+[Vorticity waves](#vort)
+[Gravity currents](#gc)
+[Interfacial electrohydrodynamical waves](#ehd)
+[Axismmetric potential flows](#axi)
+[Two-dimensional free-surface flows](#twod)
 
 ### Mode-1 and mode-2 internal waves {#mode1-mode2}
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -45,7 +51,7 @@ Papers:
 * [Nonlinear travelling periodic waves for the Euler equations in three-layer flows (2024, JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-travelling-periodic-waves-for-the-euler-equations-in-threelayer-flows/61E0844B01BCF8DD23B94106FF6F41C3)
 
 
-### Internal Tides 
+### Internal Tides {#tides}
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/internal_tide.jpg" width="600" />
 </div>
@@ -59,13 +65,13 @@ Papers:
 
 
 
-### Cyclostratigraphy
+### Cyclostratigraphy {#ccsg}
 Following an industrial think tank hosted by the SAMBa CDT at Bath, I have been working with Veronica Raffetto (Bath), Matthias Ehrhardt (Bath), and Kathryn Leeming (British Geological survey) on the field of cyclostratigraphy. The goal is to date rock samples by correlating astronomical signals (which influence the climate on Earth) with geological signals such as chemical traces in the rock. The challenge is that this is a highly nonlinear inverse problem: one must map from the spatial coordinate of the geological signal to the time coordinate of the astronomical signal, and then minimise a suitable loss functional relative to this mapping.
 
 This work is ongoing, but promising advances have been made through signal processing techniques and non-convex optimisation strategies.
 
 
-### Vorticity waves
+### Vorticity waves {#vort}
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/vort_2.png" width="400" />
@@ -86,7 +92,7 @@ Papers:
 
 
 
-### Gravity currents
+### Gravity currents {#gc}
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/GC.png" width="600" />
 </div>
@@ -99,7 +105,7 @@ Papers:
 
 
 
-### Interfacial electrohydrodynamical waves
+### Interfacial electrohydrodynamical waves {#ehd}
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/EHD.png" width="600" />
 </div>
@@ -112,7 +118,7 @@ Papers
 * [Global bifurcation of capillary-gravity dark solitary waves on the surface of a conducting fluid under normal electric fields (2022, QJMAM)](https://doi.org/10.1093/qjmam/hbac007)
 * [Flow structure beneath periodic waves with constant vorticity under normal electric fields (2022, Phys. Fluids)](https://doi.org/10.1063/5.0131563)
 
-### Axismmetric potential flows
+### Axismmetric potential flows {#axi}
 During my PhD at UCL, working with my supervisor Jean-Marc Vanden-Broeck, we found numerical solutions to axismmetric potential flow problems. We explored solution selection of Taylor bubbles, and waves on a ferrofluid jet. In both cases, a hodograph transformation was used to solve the steady-state flow in the potential space. The Stokes' streamfunction, unlike the streamfunction for classical two-dimesional potential flow, does not satisfy the Laplace equation. Hence, tricks from complex analysis must be replaced with other methodologies. For this purpose, we solve the flow equation in the potential space with finite differences, using a classical trick by Woods called 'function splitting' to handle boundary singularities.
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/bubble2.png" width="300" />
@@ -131,7 +137,8 @@ Papers
 * [Solution selection of axisymmetric Taylor bubbles (2018, JFM)](https://doi.org/10.1017/jfm.2018.156)
 * [Travelling wave solutions on an axisymmetric ferrofluid jet (2019, JFM)](https://doi.org/10.1017/jfm.2019.60)
 
-### Two-dimensional free-surface flows
+
+### Two-dimensional free-surface flows {#twod}
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/2d.png" width="300" />
 </div>
