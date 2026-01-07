@@ -1,7 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5c2d2ac-7f5c-463b-8861-67b1a55a2b93" /># Alex Doak
-
-
-
 
 
 ## Biography
