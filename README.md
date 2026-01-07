@@ -102,13 +102,18 @@ Papers:
 
 
 ### Interfacial electrohydrodynamical waves
-Working with Tao Gao (Essex) and Jean-Marc Vanden-Broeck (UCL), we have explored free-surface waves to a variety of electrohydrody
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/images/EHD.png" width="600" />
+</div>
+
+Working with Tao Gao (Essex), Jean-Marc Vanden-Broeck (UCL), Zhan Wang (Chinese Academy of Sciences), Marcelo Flamarion (PUCP), Roberto Ribeiro-Jr (UFPR), and Josh Kandola (UCL), we have explored free-surface and interfacial waves to a variety of electrohydrodynamical confiugurations. In each case, a complete picture of nonlinear wave bifurcation was presented, with a particular highlight being contiuning the Nonlinear Schrodinger Equation "dark soliton" solutions into fully nonlinear regimes. 
 
 Papers 
 * [Capillary–gravity waves on a dielectric fluid of finite depth under normal electric field (2019, Eur J. Mech. B Fluids)](https://doi.org/10.1016/j.euromechflu.2019.04.007)
+* [Capillary-gravity waves on the interface of two dielectric fluid layers under normal electric fields (2020, QJMAM)](https://doi.org/10.1093/qjmam/hbaa009)
 * [Global bifurcation of capillary-gravity dark solitary waves on the surface of a conducting fluid under normal electric fields (2022, QJMAM)](https://doi.org/10.1093/qjmam/hbac007)
 * [Flow structure beneath periodic waves with constant vorticity under normal electric fields (2022, Phys. Fluids)](https://doi.org/10.1063/5.0131563)
-
+Capillary-gravity waves on the interface of two dielectric fluid layers under normal electric fields z
 
 ### Axismmetric potential flows
 During my PhD at UCL, working with my supervisor Jean-Marc Vanden-Broeck, we found numerical solutions to axismmetric potential flow problems. We explored solution selection of Taylor bubbles, and waves on a ferrofluid jet. In both cases, a hodograph transformation was used to solve the steady-state flow in the potential space. The Stokes' streamfunction, unlike the streamfunction for classical two-dimesional potential flow, does not satisfy the Laplace equation. Hence, tricks from complex analysis must be replaced with other methodologies. For this purpose, we solve the flow equation in the potential space with finite differences, using a classical trick by Woods called 'function splitting' to handle boundary singularities.
@@ -130,6 +135,10 @@ Papers
 * [Travelling wave solutions on an axisymmetric ferrofluid jet (2019, JFM)](https://doi.org/10.1017/jfm.2019.60)
 
 ### Two-dimensional free-surface flows
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/assets/images/2D.png" width="600" />
+</div>
+
 
 
 Papers 
