@@ -16,14 +16,14 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 
 ## Research
-*[Mode-1 and mode-2 internal waves](#mode1-mode2)
-*[Internal Tides](#tides)
-*[Cyclostratigraphy](#ccsg)
-*[Vorticity waves](#vort)
-*[Gravity currents](#gc)
-*[Interfacial electrohydrodynamical waves](#ehd)
-*[Axismmetric potential flows](#axi)
-*[Two-dimensional free-surface flows](#twod)
+ * [Mode-1 and mode-2 internal waves](#mode1-mode2)
+ * [Internal Tides](#tides)
+ * [Cyclostratigraphy](#ccsg)
+ * [Vorticity waves](#vort)
+ * [Gravity currents](#gc)
+ * [Interfacial electrohydrodynamical waves](#ehd)
+ * [Axismmetric potential flows](#axi)
+ * [Two-dimensional free-surface flows](#twod)
 
 ### Mode-1 and mode-2 internal waves {#mode1-mode2}
 <div style="display: flex; justify-content: center; gap: 10px;">
