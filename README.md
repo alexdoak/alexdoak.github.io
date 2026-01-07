@@ -52,7 +52,7 @@ Papers:
   <img src="/assets/images/internal_tide.jpg" width="600" />
 </div>
 
-At the 2024 NFFDy summer workshop at Leeds university, working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), we found evidence of baroclinic internal tide resonances in MIT's global ocean ciruclation model LLC4320. Theoretical papers demonstrate that it is possible that, near the equator, near resonance of a mode-1 internal tide with itself can transfer energy to it's superharmonic via a classical triad resonance. This comes from the fact that, when the coriolis parameter is small, the dispersion relation $\omega(k)$ satisfies approximately $\omega(k)+\omega(k)\approx \omega(2k)$. We wanted to validate this theory by finding such energy exchanges in ocean models. Despite the fact that the MITgcm model is hydrostatic, dispersion still occurs due to the inclusion of the Coriolis term in the momentum equation.
+At the 2024 NFFDy summer workshop at Leeds university, working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), we found evidence of baroclinic internal tide resonances in MIT's global ocean ciruclation model LLC4320. Theoretical papers demonstrate that it is possible that, near the equator, near resonance of a mode-1 internal tide with itself can transfer energy to its superharmonic via a triad near-resonance. This comes from the fact that, when the coriolis parameter is small, the dispersion relation $\omega(k)$ satisfies approximately $\omega(k)+\omega(k)\approx \omega(2k)$. We wanted to validate this theory by finding such energy exchanges in ocean models. Despite the fact that the MITgcm model is hydrostatic, dispersion still occurs due to the inclusion of the Coriolis term in the momentum equation.
 
 We processed this data set to obtain a north-east travelling internal tide beam generated at the French Polynesian Islands. The energy corresponding to the parent mode and its superharmonic were recovered, and we found that the energy transfer is of the same order as expected by the theoretical models, providing validation of the simplified two-dimensional model.
 
@@ -84,11 +84,8 @@ Papers:
 * [Large-amplitude periodic solutions to the steady Euler equations with piecewise constant vorticity (2025, in review for Stud. App. Math.](https://arxiv.org/abs/2506.17002)
 
 
-### Internal tide resonances
-Working with Lois Baker (Edinburgh) and Dianfang Bi (Surrey), during the NFFDy 2025 summer programme at Leeds we sought out evidence of mode-1 internal tide resonances along a internal tide beam generated at the  French Polynesian Islands. We used data from the MIT Global Ocean Circulation Model (MITGCM),in particular the LLC4320 configuration. We developed a data processing pipeline to provide convincing evidence that superharmonics are resonantly generated via a triad resonance. The results 
 
-Papers:
-* [Near‐Resonant Generation of Internal Tide Superharmonics: Comparing Theoretical Predictions With a Global Ocean Model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL114226)
+
 
 ### River bathymetry reconstruction
 
