@@ -90,7 +90,7 @@ Papers:
 
 ### Gravity currents
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/images/GC.png" width="400" />
+  <img src="/assets/images/GC.png" width="600" />
 </div>
 
 At the 2023 NFFDy summer workshop at Cambridge university, working with Edward Skevington (Hull), Charlie LLoyd (Hull), and Amir Atoufi (Cambridge), we explored the long-time steady state of a sloped stratified flow exchange under a gate. This was done through reduced order modelling, in particular a two-layer shallow water model with an additional drag force to allow for a flat far-field behaviour, and data processing of full three-dimensional Navier-Stokes simulations. Spectral proper orthogonal decomposition of span-averaged data demonstrated wave-like instabilities at the density interface as the gravity current propogated down the slope.
