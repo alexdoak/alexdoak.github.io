@@ -131,7 +131,7 @@ Papers
 
 ### Two-dimensional free-surface flows
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/assets/images/2D.png" width="600" />
+  <img src="/assets/images/2d.png" width="600" />
 </div>
 
 My research journey began by exploring solitary gravity waves perturbed by a point vortex, during my MMath final year project with Jean-Marc Vanden-Broeck. I've always marveled at the remarkable theorems of complex analysis, and two-dimensional potential flow theory presents a way of utilising this toolbox for an applied mathematics setting. The ability to solve nonlinear free-boundary PDE problems analytically as early as the 1800's is a remarkable feat, with one of my favourite papers being [Hopkinson's 1898 paper](https://ia800805.us.archive.org/view_archive.php?archive=/13/items/crossref-pre-1909-scholarly-works/10.1112%252Fplms%252Fs1-25.1.343.zip&file=10.1112%252Fplms%252Fs1-29.1.142.pdf). During my research career, I've worked on variety of two-dimensional free-surface flow problems. 
