@@ -131,7 +131,7 @@ A column of fluid is famously unstable to the Plateau–Rayleigh instability. Th
 
 
 Papers
-* [Solution selection of axisymmetric Taylor bubbles (2018, JFM))](https://doi.org/10.1017/jfm.2018.156)
+* [Solution selection of axisymmetric Taylor bubbles (2018, JFM)](https://doi.org/10.1017/jfm.2018.156)
 * [Travelling wave solutions on an axisymmetric ferrofluid jet (2019, JFM)](https://doi.org/10.1017/jfm.2019.60)
 
 ### Two-dimensional free-surface flows
@@ -139,9 +139,11 @@ Papers
   <img src="/assets/images/2D.png" width="600" />
 </div>
 
+My research journey began by exploring solitary gravity waves perturbed by a point vortex, during my MMath final year project with Jean-Marc Vanden-Broeck. I've always marveled at the remarkable theorems of complex analysis, and two-dimensional potential flow theory presents a way of utilising this toolbox for an applied mathematics setting. The ability to solve nonlinear free-boundary PDE problems analytically as early as the 1800's is a remarkable feat, with one of my favourite papers being [Hopkinson's 1898 paper](https://ia800805.us.archive.org/view_archive.php?archive=/13/items/crossref-pre-1909-scholarly-works/10.1112%252Fplms%252Fs1-25.1.343.zip&file=10.1112%252Fplms%252Fs1-29.1.142.pdf). During my research career, I've worked on variety of two-dimensional free-surface flow problems. 
 
 
 Papers 
-* [Solitary gravity waves and free surface flows past a point vortex (IMA J. App. Math., 2017)](https://doi.org/10.1093/imamat/hxx015)
-* [New exotic capillary free-surface flows (JFM rapids, 2020)](https://doi.org/10.1017/jfm.2020.433)
+* [Solitary gravity waves and free surface flows past a point vortex (2017, IMA J. App. Math.)](https://doi.org/10.1093/imamat/hxx015)
+* [New exotic capillary free-surface flows (2020, JFM rapids)](https://doi.org/10.1017/jfm.2020.433)
+* [Nonlinear two-dimensional free surface solutions of flow exiting a pipe and impacting a wedge (2021, J. Eng. Math.)](https://link.springer.com/article/10.1007/s10665-020-10086-z)
   
