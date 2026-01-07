@@ -16,7 +16,7 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 
 ## Research
-[Mode-1 and mode-2 internal waves](# Mode-1 and mode-2 internal waves)
+[Mode-1 and mode-2 internal waves](#Mode-1 and mode-2 internal waves)
 
 
 ### Mode-1 and mode-2 internal waves
