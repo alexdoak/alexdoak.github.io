@@ -1,4 +1,4 @@
-# Alex Doak
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5c2d2ac-7f5c-463b-8861-67b1a55a2b93" /># Alex Doak
 
 
 
@@ -70,7 +70,7 @@ This work is ongoing, but promising advances have been made through signal proce
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/vort_2.png" width="400" />
 </div>
-Working with Jean-Marc Vanden-Broeck (UCL) and Vera Hur (Illinois Urbana-Champaign), we have been exploring a numerical method to compute free-surface waves with an arbitrary distribution of vorticity in the fluid bulk. The numerical scheme utilises a framework developed by [Wahlen & Weber (2023)](https://academic.oup.com/imrn/article/2023/20/17377/6760808), in which the flow domain is conformally mapped to a rectangular domain. Due to the non-constant vorticity, one cannot use the tools of complex analysis to solve the field equation exclusively using values on the boundary. Hence, the field equation is solved in the bulk of the fluid. These computations are the first for waves with non-constant vorticity which allow for internal stagnation and overhanging streamlines.
+Working with Jean-Marc Vanden-Broeck (UCL) and Vera Hur (Illinois Urbana-Champaign), we have been exploring a numerical method to compute free-surface waves with an arbitrary distribution of vorticity in the fluid bulk. The numerical scheme utilises a framework developed by [Wahlen \& Weber (2023)](https://academic.oup.com/imrn/article/2023/20/17377/6760808), in which the flow domain is conformally mapped to a rectangular domain. Due to the non-constant vorticity, one cannot use the tools of complex analysis to solve the field equation exclusively using values on the boundary. Hence, the field equation is solved in the bulk of the fluid. These computations are the first for waves with non-constant vorticity which allow for internal stagnation and overhanging streamlines.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/vort_3.png" width="400" />
