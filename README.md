@@ -16,10 +16,10 @@ I co-organise the Applied and Interdisciplinary Mathematics Seminar (https://bat
 
 
 ## Research
-[Mode-1 and mode-2 internal waves](#Mode-1 and mode-2 internal waves)
+[Mode-1 and mode-2 internal waves](#mode1-mode2)
 
 
-### Mode-1 and mode-2 internal waves
+### Mode-1 and mode-2 internal waves {#mode1-mode2}
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/mode1_internalwave.png" width="250" />
 </div>
