@@ -84,10 +84,6 @@ Papers:
 
 
 
-
-
-### River bathymetry reconstruction
-
 ### Gravity currents
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/assets/images/GC.png" width="600" />
@@ -113,7 +109,6 @@ Papers
 * [Capillary-gravity waves on the interface of two dielectric fluid layers under normal electric fields (2020, QJMAM)](https://doi.org/10.1093/qjmam/hbaa009)
 * [Global bifurcation of capillary-gravity dark solitary waves on the surface of a conducting fluid under normal electric fields (2022, QJMAM)](https://doi.org/10.1093/qjmam/hbac007)
 * [Flow structure beneath periodic waves with constant vorticity under normal electric fields (2022, Phys. Fluids)](https://doi.org/10.1063/5.0131563)
-Capillary-gravity waves on the interface of two dielectric fluid layers under normal electric fields z
 
 ### Axismmetric potential flows
 During my PhD at UCL, working with my supervisor Jean-Marc Vanden-Broeck, we found numerical solutions to axismmetric potential flow problems. We explored solution selection of Taylor bubbles, and waves on a ferrofluid jet. In both cases, a hodograph transformation was used to solve the steady-state flow in the potential space. The Stokes' streamfunction, unlike the streamfunction for classical two-dimesional potential flow, does not satisfy the Laplace equation. Hence, tricks from complex analysis must be replaced with other methodologies. For this purpose, we solve the flow equation in the potential space with finite differences, using a classical trick by Woods called 'function splitting' to handle boundary singularities.
